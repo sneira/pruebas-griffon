@@ -1,7 +1,7 @@
 Basic Griffon Swing/Groovy project
 ----------------------------------
 
-Yay! You have just created a basic Griffon application with Swing as UI toolkit
+You have just created a basic Griffon application with Swing as UI toolkit
 and Groovy as main language. The project has the following file structure
 
     .
